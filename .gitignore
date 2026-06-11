@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *.env
 *$py.class
-
+.env*
 # C extensions
 *.so
 
@@ -186,5 +186,6 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/python,react
+.env
 .env
 .env
