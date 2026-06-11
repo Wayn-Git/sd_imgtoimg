@@ -1,0 +1,5 @@
+pytorch
+torchvision
+transformers==4.19.2
+diffusers
+invisible-watermark
